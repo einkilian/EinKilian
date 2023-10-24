@@ -1,5 +1,7 @@
 <h1 align="center">Hello world!</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=FF4040&center=true&vCenter=true&width=800&lines=My+name+is+Kilian;Iam+a+Project+Leader+and+Discord+Bot+Developer;My+biggest+project+is+called+TrioState" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Kilian.;Iam+a+Project+Leader+and+Developer.;My+biggest+project+is+called+TrioState.;Join+our+discord+now+and+get+more+information+about+TrioState!;We+are+waiting+for+you!&font=Ubuntu&color=FF4040&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ## Join TrioState Discord (3,2K+)
 [![](https://img.shields.io/discord/829056994689417256?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/triostate)
@@ -25,3 +27,5 @@
 ## My Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EinKilian&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EinKilian&theme=transparent&utcOffset=1)
+
+
