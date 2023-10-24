@@ -11,13 +11,6 @@
 - Send me an email: [`kilian@triostate.net`](mailto:kilian@triostate.net)
 - Send me a direkt message on our forum: [`Kilian`](https://forum.triostate.net/user/1)
 
-<center>
-  <a href='https://discord.com/users/354007823157297153'>
-    <img src="https://discord.c99.nl/widget/theme-1/354007823157297153.png" style='padding: 5px'>
-  </a>
-</center>
-
-
 ## My Skills & Apps
 ### Apps 
 [![Apps](https://skillicons.dev/icons?i=vscode,ps,github,git,stackoverflow,figma)](#) 
