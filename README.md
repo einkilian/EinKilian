@@ -8,8 +8,7 @@
 
 ## How to reach me
 - Send me a direct message on Discord: [`einkilian`](https://discord.com/users/354007823157297153)
-- Send me an email: [`kilian@triostate.net`](mailto:kilian@triostate.net)
-- Send me a direkt message on our forum: [`Kilian`](https://forum.triostate.net/user/1)
+- Send me an email: [`hi@einkilian.me`](mailto:hi@einkilian.me)
 
 ## My Skills & Apps
 ### Apps 
