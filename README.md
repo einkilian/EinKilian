@@ -11,7 +11,7 @@
 - Send me an email: [`hi@einkilian.me`](mailto:hi@einkilian.me)
 
 ## My Organisations
-- My personal organisation called [`EinKilian Development`](https://github.com/EinKilian-Development)
+- **My personal organisation called [`EinKilian Development`](https://github.com/EinKilian-Development)**
 - My project's organisation called [`TrioState`](https://github.com/TrioState)
 
 ## My Skills & Apps
