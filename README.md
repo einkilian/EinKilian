@@ -13,7 +13,6 @@
 ## My Organisations
 - My personal organisation called [`EinKilian Development`](https://github.com/EinKilian-Development)
 - My project's organisation called [`TrioState`](https://github.com/TrioState)
-- My project's archive organisation called [`TrioState Archive`](https://github,com/TrioState-Archive)
 
 ## My Skills & Apps
 ### Apps 
