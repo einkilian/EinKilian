@@ -10,8 +10,12 @@
 - Send me a direct message on Discord: [`einkilian`](https://discord.com/users/354007823157297153)
 - Send me an email: [`hi@einkilian.me`](mailto:hi@einkilian.me)
 
+## My Organisations
+- My personal organisation called [`EinKilian Development`](https://github.com/EinKilian-Development)
+- My project's organisation called [`TrioState`](https://github.com/TrioState)
+- My project's archive organisation called [`TrioState Archive`](https://github,com/TrioState-Archive)
+
 ## My Skills & Apps
-- My [`personal organisation`](https://github.com/EinKilian-Development) on GitHub
 ### Apps 
 [![Apps](https://skillicons.dev/icons?i=vscode,ps,github,git,stackoverflow,figma)](#) 
 ### Skills
