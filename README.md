@@ -11,7 +11,8 @@
 - Send me an email: [`hi@einkilian.me`](mailto:hi@einkilian.me)
 
 ## My Skills & Apps
-### Apps 
+- My [`personal organisation`](https://github.com/EinKilian-Development) on GitHub
+- ### Apps 
 [![Apps](https://skillicons.dev/icons?i=vscode,ps,github,git,stackoverflow,figma)](#) 
 ### Skills
 [![Skills](https://skillicons.dev/icons?i=java,lua,php,nodejs,js,ts,html,css,md)](#)
