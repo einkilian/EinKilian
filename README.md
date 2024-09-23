@@ -1,27 +1,9 @@
-<h1 align="center">Hello world!</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Kilian.;Iam+a+Project+Leader+and+Developer.;My+biggest+project+is+called+TrioState.;Join+our+discord+now+and+get+more+information+about+TrioState!;We+are+waiting+for+you!&font=Ubuntu&color=FF4040&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<h3 align="center">
 
-## Join TrioState Discord (3,2K+)
-[![](https://img.shields.io/discord/829056994689417256?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/triostate)
-
-## How to reach me
-- Send me a direct message on Discord: [`einkilian`](https://discord.com/users/354007823157297153)
-- Send me an email: [`hi@einkilian.me`](mailto:hi@einkilian.me)
-
-## My Organisations
-- **My personal organisation called [`EinKilian Development`](https://github.com/EinKilian-Development) 🧡**
-- My project's organisation called [`TrioState`](https://github.com/TrioState)
-
-## My Skills & Apps
-### Apps 
-[![Apps](https://skillicons.dev/icons?i=vscode,ps,github,git,stackoverflow,figma)](#) 
-### Skills
-[![Skills](https://skillicons.dev/icons?i=java,lua,php,nodejs,js,ts,html,css,md)](#)
-
-## My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EinKilian&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EinKilian&theme=transparent&utcOffset=1)
-
-
+   <a href="https://discord.com/users/354007823157297153/"><img src="https://lanyard.cnrad.dev/api/354007823157297153?bg=0d1117" height="180" width="auto"></a>
+     <br> 
+</h3>
+<div align="center">
+    <a href="https://einkilian.me">einkilian.me</a><br>
+    <a href="mailto:hey@einkilian.me">hey@einkilian.me</a>
+</div>
