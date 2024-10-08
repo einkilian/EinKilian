@@ -8,5 +8,5 @@
     <a href="mailto:hey@einkilian.me">hey@einkilian.me</a>
 </div>
 
-
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=einkilian)](https://github.com/ryo-ma/github-profile-trophy)
