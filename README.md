@@ -7,3 +7,6 @@
     <a href="https://einkilian.me">einkilian.me</a><br>
     <a href="mailto:hey@einkilian.me">hey@einkilian.me</a>
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=einkilian)](https://github.com/ryo-ma/github-profile-trophy)
