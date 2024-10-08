@@ -9,4 +9,5 @@
 </div>
 
 <p> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=einkilian)](https://github.com/ryo-ma/github-profile-trophy)
+
+[trophy](https://github-profile-trophy.vercel.app/?username=einkilian)](https://github.com/ryo-ma/github-profile-trophy)
