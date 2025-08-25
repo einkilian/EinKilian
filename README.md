@@ -14,7 +14,7 @@ I'm a 22-year-old self-taught software developer with 8 years of hands-on experi
 - **[triostate.net](https://triostate.net)** – A GTA5 Roleplay server
 - **[lifanizer.com](https://lifanizer.com)** – A digital life orginazer with an AI assistant, focus-sessions and minigames to improve your productivity (it's currently not published yet)
 - **[thatss.me](https://thatss.me)** – your digital contact card (currently offline during techstack issues)
-- __soon:__ **[endaro.net](https://endaro.net)** – a fully functional discordbot for moderation, tickets, appeals, applications, minigames, trading and much more
+- _soon:_ **[endaro.net](https://endaro.net)** – a fully functional discordbot for moderation, tickets, appeals, applications, minigames, trading and much more
 
 
 ---
