@@ -1,16 +1,20 @@
-<h1 align="center">Hey, ich bin Kilian 👋</h1>
+<h1 align="center">Hey, it's me Kilian 👋</h1>
 <p align="center">
   Fullstack Developer • DevOps • SysAdmin<br/>
-  Leidenschaft für effiziente Systeme, cleane UIs und skalierbare Backends.
 </p>
 
 ---
+### 💡 About me
 
-### 🚀 Projekte
+I'm a 22-year-old self-taught software developer with 8 years of hands-on experience. My work is driven by a simple principle: software should be fast, elegant, and effortless to use. I specialize in building modern, responsive applications with clean UI/UX and high performance.
 
-- 🔥 **[Lifanizer.com](https://lifanizer.com)** – Dein digitaler Life Organizer mit KI, Fokus-Systemen & Ziel-Tracking (in aktiver Entwicklung)
-- 🧩 **[thatss.me](https://thatss.me)** – Eine clevere Plattform zur Selbstpräsentation (self-hosted & performant)
-- 🌐 **[triostate.net](https://triostate.net)** – GTA5 Roleplay Server mit Drei-Staaten-Konzept
+---
+
+### 🚀 My current projects
+- **[triostate.net](https://triostate.net)** – A GTA5 Roleplay server
+- **[lifanizer.com](https://lifanizer.com)** – A digital life orginazer with an AI assistant, focus-sessions and minigames to improve your productivity (it's currently not published yet)
+- **[thatss.me](https://thatss.me)** – your digital contact card (currently offline during techstack issues)
+
 
 ---
 
@@ -22,27 +26,11 @@
 **Frameworks & Tools:**  
 `React` `Next.js` `Express` `Tailwind CSS` `Bootstrap` `Node.js`  
 
-**Aktuell lerne ich:**  
-🧠 `React Native` für mobile Apps  
-🍎 `macOS Development` für native Anwendungen
+**Systems and Tools:**
+`ProxMox`, `n8n`, `apple shortcuts`
+
+**Currently Learning:**  
+🧠 `React Native` for mobile apps
+🍎 `macOS Development` for native applications
 
 ---
-
-### ⚙️ DevOps & Infrastruktur
-
-- Self-hosting Fan (Proxmox, Docker, Coolify)
-- Monitoring, VPN, interne DNS-Systeme
-- Automatisierung mit n8n, WireGuard & mehr
-
----
-
-### 💡 Über mich
-
-Ich baue gerne Systeme, die _nicht nur funktionieren_, sondern auch Spaß machen.  
-Wenn’s schnell, smart und autonom sein soll, bin ich in meinem Element.  
-**Keine Mitwirkenden, kein Overhead. Nur Fokus.**
-
----
-
-📫 **Kontakt:** am besten über mein Projekt: [thatss.me/@K](https://thatss.me/@K)
-
